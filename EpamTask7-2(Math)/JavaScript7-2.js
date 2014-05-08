@@ -13,7 +13,7 @@ function CountFormula(input) {
     currentOperand = "",
     currentOperator = "",
     //rgxCorrectOperand = /(\[1-9][0-9]*(?:\.[0-9]*)?)|(\0\.[0-9]*[1-9])|0/g,
-    rgxCorrectOperand = /(\[1-9][0-9]*(\.[0-9]*)?)|(\0\.[0-9]*[1-9])|(\0)/g,
+    rgxCorrectOperand = /[1-9][0-9]*(\.[0-9]+)?|0\.[0-9]*[1-9]|0/g,
 
     index = 0,
     result = "";
@@ -29,11 +29,7 @@ function CountFormula(input) {
             index++;
         }
 
-        //if (rgxCorrectOperand.test(result)) {
-        //    return "wrong input: operand is not a number " + result;
-        //}// ! check correct operand
-
-        if (result.search(rgxCorrectOperand) != -1) {
+        if (!result.match(rgxCorrectOperand)) {
             return "wrong input: operand is not a number " + result;
         }// ! check correct operand
         else {
@@ -68,8 +64,8 @@ function CountFormula(input) {
                 index++;
             }
 
-            if (rgxCorrectOperand.test(currentOperand)) {
-                return "wrong input: operand is not a number " + currentOperand;
+            if (!currentOperand.match(rgxCorrectOperand)) {
+                return "wrong input: operand is not a number " + result;
             }// ! check correct operand            
 
             switch (currentOperator) {
