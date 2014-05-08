@@ -1,0 +1,24 @@
+c:\users\111\documents\visual studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).dll
+c:\users\111\documents\visual studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).pdb
+c:\users\111\documents\visual studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).csprojResolveAssemblyReference.cache
+c:\users\111\documents\visual studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).dll
+c:\users\111\documents\visual studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).pdb
+C:\Users\user\Desktop\300414\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).dll
+C:\Users\user\Desktop\300414\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).pdb
+C:\Users\user\Desktop\300414\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\300414\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).dll
+C:\Users\user\Desktop\300414\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).pdb
+C:\Users\user\Desktop\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).dll
+C:\Users\user\Desktop\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).pdb
+C:\Users\user\Desktop\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).dll
+C:\Users\user\Desktop\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).pdb
+G:\Epam courses\New folder\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).dll
+G:\Epam courses\New folder\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\bin\EpamTask7-2(Math).pdb
+G:\Epam courses\New folder\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).dll
+G:\Epam courses\New folder\050514\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\EpamTask7-2(Math)\EpamTask7-2(Math)\obj\Debug\EpamTask7-2(Math).csprojResolveAssemblyReference.cache

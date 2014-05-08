@@ -1,0 +1,21 @@
+﻿body {
+    color: #513101;
+    background-color: #F9C476;    
+}
+
+p { /* Обычный абзац */ 
+    text-align: justify; /* Выравнивание текста по ширине */
+    } 
+
+    p.parBold { /* Абзац с классом parBold */
+    color: #1B1F92; /* Синий цвет текста */
+    margin-left: 20px; /* Отступ слева */
+    border-left: 1px solid navy; /* Граница слева от текста */
+    padding-left: 15px; /* Расстояние от линии до текста */
+    font: normal 18px 'Comic Sans MS' bold;
+    }
+
+    Button
+    {
+        background-color: #FAAC5F;
+    }
